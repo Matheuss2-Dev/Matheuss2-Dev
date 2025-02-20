@@ -1,16 +1,16 @@
-## Hi there 👋
+## Eu sou o Matheus e este é o meu repositório de ideias! 💻
 
-<!--
-**Matheuss2-Dev/Matheuss2-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando informática no CEFET-MG!
+- 📩 matheussaladeaula3@gmail.com
+- 📓 Tudo em aprendizado ainda.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,py" />
+  </a>
+  
+<h3 align="left">Tools:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,unity,discord" />
+  </a>
