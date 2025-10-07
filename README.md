@@ -7,10 +7,10 @@
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,sql" />
   </a>
   
 <h3 align="left">Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity,discord,blender" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,discord,blender,mysql" />
   </a>
