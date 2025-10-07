@@ -12,5 +12,5 @@
   
 <h3 align="left">Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity,discord,blender,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,discord,blender,mysql,logisim" />
   </a>
