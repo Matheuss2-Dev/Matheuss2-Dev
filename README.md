@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,cpp,php" />
   </a>
   
 <h3 align="left">Tools:</h3>
